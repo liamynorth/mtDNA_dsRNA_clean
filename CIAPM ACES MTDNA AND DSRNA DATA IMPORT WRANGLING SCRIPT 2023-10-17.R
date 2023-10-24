@@ -3,7 +3,7 @@
 #Authors: Liam North
 
 #LOAD NECESSARY PACKAGES########################################################
-pacman::p_load(pacman, tidyverse, readxl, car, stringr)
+pacman::p_load(pacman, tidyverse)
 
 #DATA IMPORT####################################################################
 #Import raw mtDNA cn csv named "0_2023-08-08 - LEVITT CIAPM ACES mtDNAcn"
